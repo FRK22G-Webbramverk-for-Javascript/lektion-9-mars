@@ -1,0 +1,14 @@
+.show-sum {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    position: relative;
+    border: 2px solid #443385;
+    box-shadow: -8px 8px #e1e1fc;
+    border-radius: 4px;
+}
+
+.show-sum__price {
+    display: flex;
+    justify-content: center;
+}
